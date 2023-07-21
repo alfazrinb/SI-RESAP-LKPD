@@ -33,7 +33,7 @@ if (selected == 'Prediksi Risiko Mutasi'):
     
     # page title
     # st.title('Prediksi Mutasi Pegawai Dengan Machine Learning')
-    st.markdown("<h3 style='text-align: center; color: Black;'>Prediksi Risiko Atas Akun dengan XGBoost Algoritma</h3>", unsafe_allow_html=True)
+    st.markdown("<h3 style='text-align: center; color: Black;'>Prediksi Risiko Atas Akun dengan Algoritma XGBoost</h3>", unsafe_allow_html=True)
 
 
     Entitas = st.selectbox('Entitas',['BS','KB','S'])
