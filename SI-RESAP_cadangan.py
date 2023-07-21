@@ -19,10 +19,10 @@ risiko_model = pickle.load(open("Risk_Modelling.sav", "rb"))
 # sidebar for navigation
 with st.sidebar:
     
-    selected = option_menu('SI-RESAP (Sistem Prediksi Risiko Akun Pemeriksaan)',
+    selected = option_menu('PRESISI AKUN (Prediksi Klasifikasi Risiko Akun)',
                           
-                          ['Ekploratory Data Analysis',
-                          'Prediksi Risiko Mutasi'],
+                          ['Ekpsloratory Data Analysis',
+                          'Prediksi Risiko Akun'],
                           icons=['activity','play'],
                           menu_icon="cast",
                           default_index=0
