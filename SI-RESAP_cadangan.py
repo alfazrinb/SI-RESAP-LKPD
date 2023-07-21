@@ -29,7 +29,7 @@ with st.sidebar:
                           )
 
 # Mutasi Prediction Page
-if (selected == 'Prediksi Risiko Mutasi'):
+if (selected == 'Prediksi Risiko Akun'):
     
     # page title
     # st.title('Prediksi Mutasi Pegawai Dengan Machine Learning')
@@ -364,7 +364,7 @@ if (selected == 'Prediksi Risiko Mutasi'):
     st.success(prediksi)
 
 # Heart Disease Prediction Page
-if (selected == 'Ekploratory Data Analysis'):
+if (selected == 'Ekpsloratory Data Analysis'):
 
     st.markdown("<h2 style='text-align: center; color: Black;'>Eksploratory Data Analysis (EDA)</h2>", unsafe_allow_html=True)
 
