@@ -1,0 +1,178 @@
+Akun;Risiko;AR;IR;CR;Saldo 2022;Saldo 2021;% Pertumbuhan;Temuan Tahun Sebelumnya;Opini;Akun Pengecualian;Entitas
+Kas di Kas Daerah ;High;5%;H; M ;7102298291;21461118738;-0,6691;Tidak;WDP;Tidak;BS
+Kas di Bendahara Pengeluaran;High;5%;H; M ;0;919574;-1;Tidak;WDP;Ya;BS
+Kas di Bendahara Penerimaan ;High;5%;H; M ;228539018;403475269;-0,4336;Tidak;WDP;Tidak;BS
+Kas di Bendahara FKTP;High;5%;H; M ;0;10480331;-1;Ya;WDP;Ya;BS
+Kas di Bendahara BOS;High;5%;H; M ;470557177;5715111046;-0,9177;Ya;WDP;Ya;BS
+Piutang Pajak Daerah;Medium;5%;M; M ;486267102;486267102;0;Tidak;WDP;Tidak;BS
+Piutang Retribusi Daerah;Medium;5%;M; M ;216050654;216050654;0;Tidak;WDP;Tidak;BS
+Piutang PAD Lainnya;Medium;5%;M; M ;423298;0;1;Tidak;WDP;Tidak;BS
+Piutang Transfer Antar Daerah;Medium;5%;M; M ;3553496634;1720883497;1,0649;Tidak;WDP;Tidak;BS
+Piutang Lainnya ;High;5%;H; M ;4483141446;4589738526;-0,0232;Tidak;WDP;Tidak;BS
+Penyisihan Piutang Tak Tertagih;Medium;5%;M; M ;1400660605;1225081166;0,1433;Tidak;WDP;Tidak;BS
+Persediaan ;High;5%;H; M ;15385393662;6369721452;1,4154;Tidak;WDP;Tidak;BS
+Investasi Permanen Penyertaan Modal Pemerintah Daerah;High;5%;H; M ;23558198472;21058198472;0,1187;Tidak;WDP;Tidak;BS
+Aset Tetap Tanah ;High;5%;H; M ;348594704233;351246783296;-0,0076;Ada;WDP;Tidak;BS
+Aset Tetap Peralatan dan Mesin ;High;5%;H; M ;418211233531;405337305029;0,0318;Ada;WDP;Ya;BS
+Aset Tetap Gedung dan Bangunan ;High;5%;H; M ;585873190170;554290487457;0,057;Ada;WDP;Ya;BS
+Aset Tetap Jalan, Irigasi, dan Jaringan ;High;5%;H; M ;1058557332236;998096077477;0,0606;Ada;WDP;Ya;BS
+Aset Tetap Aset Tetap Lainnya ;High;5%;H; M ;23589077116;26775838093;-0,119;Ada;WDP;Ya;BS
+Aset Tetap Konstruksi dalam Pengerjaan ;High;5%;H; M ;97205183092;99936313127;-0,0273;Ada;WDP;Ya;BS
+Aset Tetap Akumulasi Penyusutan;High;5%;H; M ;996320042483;864918735868;0,1519;Ada;WDP;Ya;BS
+Aset Lainnya Aset Lain-Lain;High;5%;H; M ;139293129340;118392801702;0,1765;Ada;WDP;Ya;BS
+Utang Perhitungan Fihak Ketiga (PFK) ;High;5%;H; M ;271613535;220757555;0,2304;Tidak;WDP;Ya;BS
+Utang Jangka Pendek Lainnya;High;5%;H; M ;11498654105;11498654105;0;Tidak;WDP;Tidak;BS
+PAD Pendapatan Pajak Daerah ;High;5%;H; M ;3796577522;4065922356;-0,0662;Tidak;WDP;Tidak;BS
+PAD Pendapatan Retribusi Daerah ;High;5%;H; M ;4012130625;3220185645;0,2459;Ada;WDP;Tidak;BS
+PAD Pendapatan Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan ;Medium;5%;L; M ;2487405328;4491054078;-0,4461;Tidak;WDP;Tidak;BS
+Lain-lain PAD yang Sah;High;5%;H; M ;8586849499;9893121552;-0,132;Tidak;WDP;Tidak;BS
+Transfer Pusat Dana Perimbangan Dana Bagi Hasil Pajak ;Medium;5%;L; M ;534336298203;577655465618;-0,075;Tidak;WDP;Tidak;BS
+Transfer Pemerintah Provinsi BHP Pendapatan Bagi Hasil Pajak Daerah **);Medium;5%;M; M ;13261643559;9013578278;0,4713;Tidak;WDP;Tidak;BS
+Lain-lain Pendapatan yang Sah Pendapatan Hibah ;High;5%;H; M ;0;12012000000;-1;Tidak;WDP;Tidak;BS
+Lain-Lain Pendapatan yang Sah;High;5%;H; M ;0;18458142840;-1;Tidak;WDP;Tidak;BS
+Belanja Pegawai;Medium;5%;M; M ;174457260697;175020082449;-0,0032;Ada;WDP;Tidak;BS
+Belanja Barang  dan Jasa;High;5%;H; M ;231914917524;192409618372;0,2053;Ada;WDP;Tidak;BS
+Belanja Subsidi;Medium;5%;L; M ;1147200000;596400000;0,9235;Tidak;WDP;Tidak;BS
+Belanja Hibah;High;5%;H; M ;14343891300;24069807404;-0,4041;Ada;WDP;Tidak;BS
+Bantuan Sosial ;High;5%;H; M ;14865598061;16963780479;-0,1237;Ada;WDP;Tidak;BS
+Belanja Tanah ;High;5%;H; M ;4416462300;10629329000;-0,5845;Ada;WDP;Tidak;BS
+Belanja Peralatan dan Mesin;High;5%;H; M ;17719056938;51417419925;-0,6554;Ada;WDP;Tidak;BS
+Belanja Gedung dan Bangunan;High;5%;H; M ;33453243058;50786066715;-0,3413;Ada;WDP;Tidak;BS
+Belanja Jalan, Irigasi dan Jaringan ;High;5%;H; M ;44216044433;47333404381;-0,0659;Ada;WDP;Tidak;BS
+Belanja Aset Tetap Lainnya;High;5%;H; M ;0;91983000;0;Tidak;WDP;Tidak;BS
+Belanja Tak Terduga;High;5%;H; M ;2706490500;4819972000;-0,4385;Tidak;WDP;Tidak;BS
+Transfer ke Kab/Kota Bantuan Keuangan **);Medium;5%;M; M ;111030662771;131389023830;-0,1549;Tidak;WDP;Tidak;BS
+Penerimaan Pembiayaan Penggunaan SiLPA ;High;5%;H; M ;30355233084;13945284472;1,1767;Tidak;WDP;Tidak;BS
+Pengeluran Pembiayaan Penyertaan Modal Pemerintah Daerah ;High;5%;H; M ;2500000000;500000000;4;Tidak;WDP;Tidak;BS
+PAD - Pendapatan Pajak Daerah;High;5%;H; M ;3796577522;4065922356;-0,0662;Tidak;WDP;Tidak;BS
+PAD - Pendapatan Rettribusi Daerah;High;5%;H; M ;4206759025;3220185645;0,3064;Tidak;WDP;Tidak;BS
+PAD - Hasil Kekayaan Daerah yang Dipisahkan;Medium;5%;L; M ;2487405328;4491054078;-0,4461;Tidak;WDP;Tidak;BS
+Lain-lain PAD yang Sah;High;5%;H; M ;8587272797;9893121552;-0,132;Tidak;WDP;Tidak;BS
+Pendapatan Transfer;Medium;5%;L; M ;538939958097;674860125716;-0,2014;Tidak;WDP;Tidak;BS
+Lain-Lain Pendapatan yang Sah;High;5%;H; M ;0;30470142840;-1;Tidak;WDP;Tidak;BS
+Beban Pegawai;Medium;5%;M; M ;174654076185;175020102609;-0,0021;Tidak;WDP;Tidak;BS
+Beban Jasa;High;5%;H; M ;74527011163;80299264209;-0,0719;Tidak;WDP;Tidak;BS
+Beban Pemeliharaan;High;5%;H; M ;6782983635;9032452491;-0,249;Tidak;WDP;Tidak;BS
+Beban Perjalanan Dinas ;High;5%;H; M ;72829017277;63005818875;0,1559;Tidak;WDP;Tidak;BS
+Beban Subsidi;High;5%;H; M ;1147200000;596400000;0,9235;Tidak;WDP;Tidak;BS
+Beban Hibah;High;5%;H; M ;13745603800;24069807404;-0,4289;Tidak;WDP;Tidak;BS
+Beban Bantuan Sosial;High;5%;H; M ;14865598061;16963780479;-0,1237;Tidak;WDP;Tidak;BS
+Beban Penyusutan;High;5%;H; M ;131394066615;124803433853;-0,0502;Tidak;WDP;Tidak;BS
+Beban Transfer;Medium;5%;L; M ;131389023830;39681309552;2,3111;Tidak;WDP;Tidak;BS
+Beban Lain-Lain;High;5%;H; M ;0;478967812;-1;Tidak;WDP;Tidak;BS
+Pendapatan Luar Biasa;High;5%;H; M ;-2706490500;-5176040000;0,9125;Tidak;WDP;Tidak;BS
+Beban Luar Biasa;High;5%;H; M ;2706490500;5176040000;-0,4771;Tidak;WDP;Tidak;BS
+Pendapatan Pajak Daerah;Medium;5%;H;L;150238525521;117410605438;0,28;Ya;WTP;Tidak;KB
+Pendapatan Retribusi Daerah;Medium;5%;H;L;8076124035;7085594060;0,14;Tidak;WTP;Tidak;KB
+Pendapatan Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan;Low;5%;L;L;3828815922;3883426436;-0,014;Tidak;WTP;Tidak;KB
+Lain-lain PAD yang Sah;Medium;5%;H;L;38170700031;32514965549;0,174;Tidak;WTP;Tidak;KB
+Dana Penyesuaian;Medium;5%;M;L;1109866798109;1037969327864;0,069;Tidak;WTP;Tidak;KB
+Pendapatan Bagi Hasil Lainnya;Medium;5%;M;L;104163843532;108853456467;-0,043;Tidak;WTP;Tidak;KB
+Pendapatan Hibah;Medium;5%;H;L;12321601677;6513461532;0,892;Tidak;WTP;Tidak;KB
+Belanja Pegawai;Medium;5%;M;L;551447350820;554510088430;-0,006;Ya;WTP;Tidak;KB
+Belanja Barang dan Jasa;High;5%;H;M;630624314818;632438958929;-0,003;Ya;WTP;Tidak;KB
+Hibah;Medium;5%;H;L;38714554260;20101615000;0,926;Ya;WTP;Tidak;KB
+Belanja Bunga;Medium;5%;H;L;931091177;68288154;12,635;Tidak;WTP;Tidak;KB
+Bantuan Keuangan;Medium;5%;M;L;951847000;4555000000;-0,791;Tidak;WTP;Tidak;KB
+Belanja Tanah;Medium;5%;H;L;0;2588343600;0;Tidak;WTP;Tidak;KB
+Belanja Peralatan dan Mesin;Medium;5%;H;L;20177816817;38157284818;-0,471;Tidak;WTP;Tidak;KB
+Belanja Gedung dan Bangunan;Medium;5%;H;L;64864065039;72727307963;-0,108;Ya;WTP;Tidak;KB
+Belanja Jalan, Irigasi dan Jaringan;Medium;5%;H;L;101298990876;102558799887;-0,012;Ya;WTP;Tidak;KB
+Belanja Aset Tetap Lainnya;Medium;5%;H;L;320517000;939296631;-0,659;Tidak;WTP;Tidak;KB
+Belanja Tak Terduga;Medium;5%;H;L;4776908007;7696037303;-0,379;Tidak;WTP;Tidak;KB
+Bagi Hasil Pajak;Medium;5%;H;L;12341043000;10740141000;0,149;Tidak;WTP;Tidak;KB
+Bagi Hasil Retribusi;Medium;5%;H;L;903297000;589521000;0,532;Tidak;WTP;Tidak;KB
+Bagi Hasil Pendapatan Lainnya;Medium;5%;M;L;201805363600;214820978000;-0,061;Tidak;WTP;Tidak;KB
+Pengunaan SILPA;Medium;5%;H;L;30857296043;51728318005;-0,403;Tidak;WTP;Tidak;KB
+Pendapatan Pajak Daerah;High;5%;H;M;163188366535;129986877760;0,255;Tidak;WTP;Tidak;KB
+Pendapatan Retribusi Daerah;High;5%;H;M;8595173385;7209778563;0,192;Tidak;WTP;Tidak;KB
+Pendapatan Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan;Medium;5%;L;M;0;3828815922;0;Tidak;WTP;Tidak;KB
+Lain-lain PAD yang Sah;High;5%;H;M;38215351787;32428705847;0,178;Tidak;WTP;Tidak;KB
+Dana Otonomi Khusus;Medium;5%;M;M;1115495837584;1037969327864;0,075;Tidak;WTP;Tidak;KB
+Pendapatan Hibah;High;5%;H;M;59268874589;64873311282;-0,086;Tidak;WTP;Tidak;KB
+Beban Pegawai;Medium;5%;M;M;551447350820;554510088430;-0,006;Tidak;WTP;Tidak;KB
+Beban Jasa;High;5%;H;M;600057963472;632416681810;-0,051;Tidak;WTP;Tidak;KB
+Beban Hibah;Medium;5%;H;L;38714554260;20265175000;0,91;Tidak;WTP;Tidak;KB
+Beban Bantuan Sosial;Medium;5%;H;L;0;125907000;0;Tidak;WTP;Tidak;KB
+Beban Penyusutan dan Amortisasi;High;5%;H;M;138229977870;103918347877;0,33;Tidak;WTP;Tidak;KB
+Beban Penyisihan Piutang;High;5%;H;M;8806501294;6509570745;0,353;Tidak;WTP;Tidak;KB
+Beban Transfer;Medium;5%;L;M;89341956000;89477457000;-0,002;Tidak;WTP;Tidak;KB
+Beban Lain-lain;High;5%;H;M;10421086067;2068610301;4,038;Tidak;WTP;Tidak;KB
+Surplus/Defisit dari Kegiatan Non Operasional Lainnya;High;5%;H;M;833577557;-60313524012;-1,014;Tidak;WTP;Tidak;KB
+Kas di Kas Daerah;High;5%;H;M;8090346212;28664269915;-0,718;Tidak;WTP;Tidak;KB
+Kas di Bendahara Pengeluaran;High;5%;H;M;85000;288500;-0,705;Tidak;WTP;Tidak;KB
+Kas di BLUD;High;5%;H;M;3459453199;1227363152;1,819;Tidak;WTP;Tidak;KB
+Kas di Bendahara BOS;High;5%;H;M;1018270682;1030301586;-0,012;Tidak;WTP;Tidak;KB
+Kas Lainnya;High;5%;H;M;4772253;0;1;Tidak;WTP;Tidak;KB
+Piutang Pajak;Medium;5%;M;M;86136570522;72852134631;0,182;Tidak;WTP;Tidak;KB
+Piutang Retribusi;Medium;5%;M;M;2462076582;1942088232;0,268;Tidak;WTP;Tidak;KB
+Piutang PAD Lainnya;Medium;5%;M;M;72282106;60583178;0,193;Tidak;WTP;Tidak;KB
+Penyisihan Piutang;Medium;5%;M;M;-36976662738;-28520470626;0,296;Tidak;WTP;Tidak;KB
+Persediaan;High;5%;H;M;12558990597;10864362774;0,156;Ya;WTP;Tidak;KB
+Investasi Permanen (Penyertaan Modal Pemerintah Daerah);High;5%;H;M;52591088090;58123078630;-0,095;Tidak;WTP;Tidak;KB
+Tanah;High;5%;H;M;141417841442;116969432592;0,209;Ya;WTP;Tidak;KB
+Peralatan dan Mesin;High;5%;H;M;400954145004;375905402029;0,067;Ya;WTP;Tidak;KB
+Gedung dan Bangunan;High;5%;H;M;1021777850455;941930851618;0,085;Ya;WTP;Tidak;KB
+Jalan, Irigasi dan Jaringan;High;5%;H;M;1426670336933;1311831405864;0,088;Ya;WTP;Tidak;KB
+Aset Tetap Lainnya;High;5%;H;M;94032300571;89474987635;0,051;Ya;WTP;Tidak;KB
+Konstruksi dalam Pengerjaan;High;5%;H;M;1265633450;6463138950;-0,804;Ya;WTP;Tidak;KB
+Akumulasi Penyusutan;High;5%;H;M;-1100768162448;-803709739904;0,37;Ya;WTP;Tidak;KB
+Aset Tak Berwujud;High;5%;H;M;882936958;1258825191;-0,299;Tidak;WTP;Tidak;KB
+Aset Lain-lain;High;5%;H;M;98162849645;79860487622;0,229;Ya;WTP;Tidak;KB
+Utang Perhitungan Fihak Ketiga (PFK) ;High;5%;H;M;74028;654546;-0,887;Tidak;WTP;Tidak;KB
+Pendapatan Diterima Dimuka;High;5%;H;M;1044380894;708847017;0,473;Tidak;WTP;Tidak;KB
+Utang Jangka Pendek Lainnya;High;5%;H;M;140304429233;83787417972;0,675;Tidak;WTP;Tidak;KB
+Ekuitas Dana;High;5%;H;M;2087190829553;2193506625850;-0,048;Tidak;WTP;Tidak;KB
+Pendapatan Pajak Daerah;High;5%;H;M;48074617655;33268971828;0,445;ada;WTP;tidak;S
+Pendapatan Retribusi Daerah;High;5%;H;M;10780217790;9527589970;0,1315;tidak;WTP;tidak;S
+Pendapatan Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan;Medium;5%;L;M;5038453633;4164142133;0,21;tidak;WTP;tidak;S
+Lain-lain PAD yang Sah;High;5%;H;M;206236616800;126354623633;0,6322;tidak;WTP;tidak;S
+Belanja Pegawai;Medium;5%;M;L;668066041455;745421072642;-0,1038;ada;WTP;tidak;S
+Belanja Barang dan Jasa;High;5%;H;M;988782289740;598472440672;0,6522;ada;WTP;tidak;S
+Hibah;Medium;5%;H;L;20587312954;69079845659;-0,702;tidak;WTP;tidak;S
+Belanja Tanah;Medium;5%;L;M;0;1792480000;0;tidak;WTP;tidak;S
+Belanja Peralatan dan Mesin;High;5%;H;M;77288776504;76969352148;0,0042;ada;WTP;tidak;S
+Belanja gedung dan Bangunan;High;5%;H;M;59421445652;95464942283;-0,3776;ada;WTP;tidak;S
+Belanja Jalan, Irigasi dan Jaringan;High;5%;H;M;306133020708;391492942867;-0,218;tidak;WTP;tidak;S
+Belanja Aset Tetap lainnya;Medium;5%;M;M;4434315516;5610803458;-0,2097;tidak;WTP;tidak;S
+Belanja Tak Terduga;Medium;5%;H;L;8434567029;69966802134;-0,8794;tidak;WTP;tidak;S
+Bantuan Keuangan Lainnya;Low;5%;L;L;227036416629;246883799070;-0,0804;tidak;WTP;tidak;S
+Penggunaan Silpa;Medium;5%;M;M;528408789165;442373646401;0,1945;tidak;WTP;tidak;S
+Penyertaan Modal Pemerintah Daerah;Medium;5%;M;M;11490000000;13164868099;-0,1272;tidak;WTP;tidak;S
+Pendapatan Pajak Daerah;High;5%;M;M;49428653618;34717800540;0,4237;ada;WTP;tidak;S
+Pendapatan Retribusi Daerah;High;5%;H;M;11318516012;9766107998;0,159;tidak;WTP;tidak;S
+Pendapatan Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan;Medium;5%;L;M;9314570761;4164142133;1,2369;tidak;WTP;tidak;S
+Lain-lain PAD yang Sah;High;5%;H;M;203634690969;108993212728;0,8683;tidak;WTP;tidak;S
+Beban Pegawai;Medium;5%;M;M;668493662356;746101209342;-0,104;tidak;WTP;tidak;S
+Beban Jasa;High;5%;H;M;1026302505600;357168020569;1,8734;tidak;WTP;tidak;S
+Beban Penyusutan;Medium;5%;H;L;441597986552;414101380895;0,0664;tidak;WTP;tidak;S
+Beban Penyisihan Piutang;Medium;5%;H;L;5243907938;17156265955;-0,6943;tidak;WTP;tidak;S
+Beban Lain-lain;Medium;5%;M;L;4110714635;5656173516;-0,2732;tidak;WTP;tidak;S
+Surplus/Defisit dari Kegiatan Non Operasional Lainnya;Medium;5%;M;L;-2766713719;-2193252323;0,2615;tidak;WTP;tidak;S
+Pendapatan Luar Biasa;Medium;5%;M;L;2530034103;5592093649;-0,5476;tidak;WTP;tidak;S
+Beban Luar Biasa;Medium;5%;M;L;1246052524;3360592870;-0,6292;tidak;WTP;tidak;S
+Kas di Kas Daerah;Medium;5%;M;M;302218596270;509872206673;-0,4073;tidak;WTP;tidak;S
+Kas di Bendahara Pengeluaran;High;5%;H;M;0;106186500;-1;ada;WTP;tidak;S
+Kas di BLUD;High;5%;M;M;78759386374;16543421270;3,7608;tidak;WTP;tidak;S
+Kas Di Bendahara JKN Puskesmas;Medium;5%;H;M;1493171308;1279559192;0,1669;tidak;WTP;tidak;S
+Kas di Bendahara Dana BOS;Medium;5%;H;M;724042135;641415541;0,1288;ada;WTP;tidak;S
+Penyisihan Piutang;Medium;5%;M;M;-29675387698;-27722759911;0,0704;tidak;WTP;tidak;S
+Belanja Dibayar Dimuka;Medium;5%;M;M;2395315356;5140477993;-0,534;tidak;WTP;tidak;S
+Piutang Lainnya;Medium;5%;M;M;3423145482;3653971365;-0,0632;tidak;WTP;tidak;S
+Persediaan;High;5%;H;M;169187094962;197383147531;-0,1428;ada;WTP;tidak;S
+Penyertaan Modal Pemerintah Daerah;Medium;5%;M;L;227268811064;215578303687;0,0542;tidak;WTP;tidak;S
+Tanah;High;5%;H;M;860261514057;856166594710;0,0048;ada;WTP;tidak;S
+Peralatan dan Mesin;High;5%;H;M;970898203254;899646826247;0,0792;tidak;WTP;tidak;S
+Gedung dan Bangunan;High;5%;H;M;2330892598634;2277799257360;0,0233;ada;WTP;tidak;S
+Jalan Irigasi dan jaringan;High;5%;H;M;5527816463913;5220039592817;0,059;ada;WTP;tidak;S
+Aset Tetap Lainnya;High;5%;H;M;41278118321;37429377605;0,1028;ada;WTP;tidak;S
+Konstruksi Dalam Pengerjaan;High;5%;H;M;315693601588;319251320987;-0,0111;tidak;WTP;tidak;S
+Akumulasi Penyusutan;High;5%;H;M;-4070228308827;-3639022998839;0,1185;tidak;WTP;tidak;S
+Kemitraan dengan Pihak Ketiga;Medium;5%;M;M;201926745568;201926745568;0;tidak;WTP;tidak;S
+Aset Tidak Berwujud;Medium;5%;M;M;11602919400;10249776400;0,132;tidak;WTP;tidak;S
+Aset Lain-lain;Medium;5%;M;M;31435387393;31599173973;-0,0052;tidak;WTP;tidak;S
+Akum. Amortisasi Aset Tak Berwujud;Medium;5%;M;M;-9497050950;-8479872225;0,12;tidak;WTP;tidak;S
+Pendapatan Diterima Dimuka;Medium;5%;M;L;424347330;342103541;0,2404;tidak;WTP;tidak;S
+Utang Pegawai;Medium;5%;M;L;5628007632;1051457251;4,3526;tidak;WTP;tidak;S
+Utang Perhitungan Fihak Ketiga (PFK) ;Medium;5%;H;L;73893261;59797959;0,2357;tidak;WTP;tidak;S
+Ekuitas Dana;Medium;5%;H;L;6936014527586;7153496583839;-0,0304;tidak;WTP;tidak;S
